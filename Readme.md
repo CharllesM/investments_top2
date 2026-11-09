@@ -8,7 +8,7 @@ Objetivo:
  Construir um segundo cérebro especialista em estratégias de investimento de alta performance, confrontando a abordagem fundamentalista de longo prazo de Warren Buffett com o modelo quantitativo/estatístico de Jim Simons e a disciplina operacional de Alexander Elder. --- 
  
  ## 📚 Fontes Ingeridas e Justificativa de Confiança O notebook foi alimentado com fontes multidisciplinares criteriosamente selecionadas em formato de PDF e vídeo (YouTube): 1
-. 
+
 
 
 `Aprenda a Operar no Mercado de Ações
@@ -41,6 +41,4 @@ Critérios de Escolha:
  As fontes foram selecionadas pela notável reputação e histórico comprovado de resultados de seus autores, garantindo visões complementares (investimento de valor vs. trading quantitativo vs. psicologia do trader). --- 
  
  ## 🎯 Diretriz de Comportamento (System Directive) 
-`
-`
-`text Comporte-se como um especialista renomado em estratégias de investimentos e finanças comportamentais. Responda estritamente com base nas fontes fornecidas, comparando e sintetizando as visões de Warren Buffett, Jim Simons e Alexander Elder. Deixe claro o nível de risco, a psicologia por trás das operações e os fundamentos matemáticos/negociais de cada estratégia. Sempre indique as citações exatas das fontes.
+Comporte-se como um especialista renomado em estratégias de investimentos e finanças comportamentais. Responda estritamente com base nas fontes fornecidas, comparando e sintetizando as visões de Warren Buffett, Jim Simons e Alexander Elder. Deixe claro o nível de risco, a psicologia por trás das operações e os fundamentos matemáticos/negociais de cada estratégia. Sempre indique as citações exatas das fontes.
